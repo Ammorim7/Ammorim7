@@ -8,8 +8,8 @@ Me chamo Matheus de Amorim. Procuro aprender sobre software/web dev e compartilh
 
 ## Informações sobre minha pessoa
 * **Idade:** 20 anos
-* **Morando em:** Natal/RN (porem pretendo me mudar pro Rio de Janeiro em 2023).
-* **Vida academica:** Cursando médio/técnico em informática no IFRN e técnico em redes de computadores no IMD/UFRN.
+* **Morando em:** Natal/RN.
+* **Vida academica:** Cursando Bacharelado em Tecnologia da Informação na UFRN. Formação técnica em Informática (IFRN) e em Redes (IMD/UFRN).
 * **Experiência profissional:** Estágio de digitalização no Tribunal de Justiça do RN.
 * **Contato:** matheus1_amorim@yahoo.com / matheus.amorim.email@gmail.com
 
