@@ -7,10 +7,10 @@ Me chamo Matheus de Amorim. Procuro aprender sobre software/web dev e compartilh
 ![Amorim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammorim7&show_icons=true&theme=dark)
 
 ## Informações sobre minha pessoa
-* **Idade:** 20 anos
+* **Idade:** 21 anos
 * **Morando em:** Natal/RN.
 * **Vida academica:** Cursando Bacharelado em Tecnologia da Informação na UFRN. Formação técnica em Informática (IFRN) e em Redes (IMD/UFRN).
-* **Experiência profissional:** Estágio de digitalização no Tribunal de Justiça do RN.
+* **Experiência profissional:** Trabalho atualmente criando interações de chatbots na empresa Winstons Soluções Inteligentes.
 * **Contato:** matheus1_amorim@yahoo.com / matheus.amorim.email@gmail.com
 
 ## Tecnologias que eu tenho conhecimento
